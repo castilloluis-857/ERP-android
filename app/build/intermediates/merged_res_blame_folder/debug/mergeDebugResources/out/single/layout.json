@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/dialog_product.xml",
+        "source": "com.tony.erp.app-main-48:/layout/dialog_product.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/fragment_products.xml",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_products.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/item_sale.xml",
+        "source": "com.tony.erp.app-main-48:/layout/item_sale.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/item_user.xml",
+        "source": "com.tony.erp.app-main-48:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/fragment_clients.xml",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_clients.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "com.tony.erp.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/dialog_client.xml",
+        "source": "com.tony.erp.app-main-48:/layout/dialog_client.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/activity_dashboard.xml",
+        "source": "com.tony.erp.app-main-48:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/fragment_sales.xml",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_sales.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/item_cart.xml",
+        "source": "com.tony.erp.app-main-48:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/item_client.xml",
+        "source": "com.tony.erp.app-main-48:/layout/item_client.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/fragment_users.xml",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_users.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/dialog_change_password.xml",
+        "source": "com.tony.erp.app-main-48:/layout/dialog_change_password.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-mergeDebugResources-45:/layout/item_product.xml",
+        "source": "com.tony.erp.app-main-48:/layout/item_product.xml"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_activity_login.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_dialog_client.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/dialog_client.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_dialog_change_password.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/dialog_change_password.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/menu_menu_dashboard.xml.flat",
+        "source": "com.tony.erp.app-main-48:/menu/menu_dashboard.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/xml_network_security_config.xml.flat",
+        "source": "com.tony.erp.app-main-48:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_logout.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_fragment_users.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_users.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_item_user.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_item_sale.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/item_sale.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_manage_accounts.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_manage_accounts.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_icono_erp.png.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/icono_erp.png"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_business.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_business.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_bg_error.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/bg_error.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_fragment_products.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_products.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_fragment_sales.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_sales.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_item_cart.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_item_client.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/item_client.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_inventory.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_inventory.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_group.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_group.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_dialog_product.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/dialog_product.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_activity_dashboard.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_add.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_close.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/menu_menu_bottom_nav.xml.flat",
+        "source": "com.tony.erp.app-main-48:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_item_product.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/drawable_ic_receipt.xml.flat",
+        "source": "com.tony.erp.app-main-48:/drawable/ic_receipt.xml"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tony.erp.app-main-48:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tony.erp.app-debug-46:/layout_fragment_clients.xml.flat",
+        "source": "com.tony.erp.app-main-48:/layout/fragment_clients.xml"
+    }
+]

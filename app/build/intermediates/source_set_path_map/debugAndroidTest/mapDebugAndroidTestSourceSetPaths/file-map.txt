@@ -1,0 +1,6 @@
+com.tony.erp.test.app-jetified-core-1.5.0-0 C:\Users\casti\.gradle\caches\transforms-4\18ddcc044633cfc7fc7707be6570bd56\transformed\jetified-core-1.5.0\res
+com.tony.erp.test.app-jetified-annotation-experimental-1.4.0-1 C:\Users\casti\.gradle\caches\transforms-4\dd62042e5983c90502c3bf9a5cd30fd9\transformed\jetified-annotation-experimental-1.4.0\res
+com.tony.erp.test.app-androidTest-2 C:\Users\casti\Downloads\ERP_Android_Java\app\build\generated\res\resValues\androidTest\debug
+com.tony.erp.test.app-mergeDebugAndroidTestResources-3 C:\Users\casti\Downloads\ERP_Android_Java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.tony.erp.test.app-mergeDebugAndroidTestResources-4 C:\Users\casti\Downloads\ERP_Android_Java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.tony.erp.test.app-debugAndroidTest-5 C:\Users\casti\Downloads\ERP_Android_Java\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
