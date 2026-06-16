@@ -10,3 +10,4 @@ app/debug/
 *.apk
 *.aab
 local.properties
+*.hprof 
